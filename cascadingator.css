@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+.line{
+    height: 6px;
+    width: 100px;
+    background-color: black;
+    margin: 8px auto;
+}
+h1{
+    font-family: 'Inconsolata', monospace;
+}
+#myCarousel{
+    background-color: chartreuse;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+    text-align: center;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: crimson;
+    font-size: 20px;
+}
